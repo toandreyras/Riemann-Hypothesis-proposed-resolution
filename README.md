@@ -4,7 +4,7 @@ Vlasov–Quasi-Riemann Hypothesis Resolution, Version 10.7.2026,
 https://github.com/toandreyras/Riemann-Hypothesis-proposed-resolution/wiki/Vlasov–Quasi%E2%80%90Riemann-Hypothesis-Resolution
 
 Proposed Resolution of the Riemann Hypothesis, Version 8.10.2026,
-https://github.com/toandreyras/Riemann-Hypothesis-proposed-resolution/wiki/Proposed-Resolution-of-the-Riemann-Hypothesis-via-Motivic%E2%80%90Spectral-Isomorphisms-and-Topological-Renormalization-on-the-F1%E2%80%90Curve
+https://github.com/toandreyras/Riemann-Hypothesis-proposed-resolution/wiki/Vlasov–Quasi%E2%80%90Riemann-Hypothesis-Resolution
 
 ---
 
